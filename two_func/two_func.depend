@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1543825087 source:c:\c files\two_func\main.c
+	<stdio.h>
+
+1543826315 source:c:\c files\two_func\main.cpp
+	<iostream>
+
